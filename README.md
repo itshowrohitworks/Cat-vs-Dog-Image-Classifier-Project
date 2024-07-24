@@ -4,6 +4,8 @@
 
 **Dataset**: Kaggle's Cats vs Dogs dataset, containing labeled images of cats and dogs.
 
+**Dataset URL** : https://www.kaggle.com/datasets/salader/dogs-vs-cats
+
 **Approach**:
 1. **Data Loading and Exploration**: Import and visualize the dataset to understand its structure and distribution.
 2. **Data Preprocessing**: 
